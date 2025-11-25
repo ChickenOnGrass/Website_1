@@ -1,0 +1,14 @@
+---
+title: "Main Page"
+author: "Zongyi Lin"
+date: "11/25/2025"
+
+---
+
+# Title
+These are words
+
+```{python}
+print("Hello world")
+
+```
